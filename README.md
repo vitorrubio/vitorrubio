@@ -15,6 +15,14 @@
 * 🐤 [Twitter](https://twitter.com/vitorrubio)
 * 📡 [Blog](http://blog.vitorrubio.com.br/)
 
+
+## Destaques
+Dentre os meus repositórios, gostaria de destacar:
+* [Tutorial de Exception Handling](https://github.com/vitorrubio/CSharpExceptionHandlingExample)
+* [Tutorial de Shallow Compare](https://github.com/vitorrubio/ShallowCompareDemo)
+* [Copa Series](https://github.com/vitorrubio/SabatinaDotNetCore/tree/master/AspNetCore/CopaSeries)
+* [DynamicHelpers](https://github.com/vitorrubio/VitorRubio.DynamicHelpers)
+
 <!--
 **vitorrubio/vitorrubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
