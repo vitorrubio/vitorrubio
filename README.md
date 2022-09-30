@@ -1,4 +1,5 @@
 # Portfolio do Vitor Rubio 
+Não repare a bagunça, tudo aqui é um eterno Work In Progress
 
 ## Apresentação
 * 👋 Olá, meu nome é Vitor Luiz Rubio e eu sou um DEV Fullstack, mas sou melhor com Backend. Sou desenvolvedor de sistemas desde 2004, formado em Processamento de Dados pela UNESP/FATEC-SP.
@@ -19,7 +20,7 @@
 ## Destaques
 Dentre os meus repositórios, gostaria de destacar:
 * [Tutorial de Exception Handling](https://github.com/vitorrubio/CSharpExceptionHandlingExample)
-* [Tutorial de Shallow Compare](https://github.com/vitorrubio/ShallowCompareDemo)
+* [Tutorial de Comparação de Objetos](https://github.com/vitorrubio/ShallowCompareDemo)
 * [Copa Series](https://github.com/vitorrubio/SabatinaDotNetCore/tree/master/AspNetCore/CopaSeries)
 * [DynamicHelpers](https://github.com/vitorrubio/VitorRubio.DynamicHelpers)
 
