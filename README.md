@@ -11,10 +11,20 @@ Não repare a bagunça, tudo aqui é um eterno Work In Progress
 
 
 ## Contatos
+* ☎️ Telefone/Whatsapp: (11) 979924544
+* ✉ [e-mail](mailto:vitorrubio@gmail.com)
 * 🌍 [Site](https://vitorrubio.com.br/)
 * 💼 [Linkedin](https://www.linkedin.com/in/vitorrubio)
 * 🐤 [Twitter](https://twitter.com/vitorrubio)
+
+
+## Portfolio e Repos
+* 🖥️ [Github](https://github.com/vitorrubio/vitorrubio)
+* 🖥️ [Gitlab](https://gitlab.com/vitorrubio)
+* 🖥️ [Bitbucket](https://bitbucket.org/vitorrubio/)
+* 🖥️ [Azure](https://dev.azure.com/vitorrubio/vitorrubio)
 * 📡 [Blog](http://blog.vitorrubio.com.br/)
+* 📡 [Dev.to](https://dev.to/vitorrubiodev)
 
 
 ## Destaques
