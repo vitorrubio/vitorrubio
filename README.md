@@ -14,7 +14,8 @@ Não repare a bagunça, tudo aqui é um eterno Work In Progress
 * ☎️ Telefone/Whatsapp: (11) 979924544
 * ✉ [e-mail](mailto:vitorrubio@gmail.com)
 * 🌍 [Site](https://vitorrubio.com.br/)
-* 💼 [Linkedin](https://www.linkedin.com/in/vitorrubio)
+* 🧑‍💼 [Currículo](https://www.dropbox.com/sh/x762qtb8xm7p376/AAA_BAkEg_Qd5QwT2GrUi4VTa?dl=0)
+* 🧑‍💼 [Linkedin](https://www.linkedin.com/in/vitorrubio)
 * 🐤 [Twitter](https://twitter.com/vitorrubio)
 
 
