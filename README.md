@@ -25,7 +25,7 @@ Não repare a bagunça, tudo aqui é um eterno Work In Progress
 * 🖥️ [Bitbucket](https://bitbucket.org/vitorrubio/)
 * 🖥️ [Azure](https://dev.azure.com/vitorrubio/vitorrubio)
 * 📡 [Blog](http://blog.vitorrubio.com.br/)
-* 📡 [Dev.to](https://dev.to/vitorrubiodev)
+* 📡 [Dev.to](https://dev.to/vitorrubio)
 
 
 ## Destaques
